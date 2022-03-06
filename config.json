@@ -1,7 +1,12 @@
-/* 
-  
-  This is a placeholder file. You can generate this file using this page:
-    
-  https://cloud.google.com/docs/authentication/getting-started
- 
-*/
+{
+  "type": "service_account",
+  "project_id": "manychat-324108",
+  "private_key_id": "ec896514aa51916de4b768fe3debe1b86b29397d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQChs51If7GT1y8Q\nR3SXIhYUS9T2cTccVgq3iJvMHGajUVA3HSYetUPyF5Ty7up120XjxRM4jUAbi/Ca\nrDXeZHgHUWeGy6Fh9/WXeVelyIa14ExE62BE3jf8KTXjm0eD6AEjyJM103sAgSDD\nBVqMGupmKqloMG3zrf0g59fMD16ZiT0Fsi4+ymb9Tu93yjpdZMcz8IRPZNOG3Ql/\ncvo8h1Um8aUVaAjTyEDkvTd5xf+QBeQr6kGYNwrsOvwm3X0hOm+RqagW4TPhpj88\nlYWq0akmKRDqkp2NS4wK24XGfJ8A+EvARSYeJyr1uuWzOhX2jFTNqD1iVuT9++q/\nifDMkf37AgMBAAECggEABUcSfBpG1ndwfsyGPqSLKfBrq/t3/AHG6cSYqSnII850\nmsflxZzO8ejZILCxkFUuy8dT4EWj8QI5QSMbwv1ueXartVeSFdt89YutU6je1LLU\nam9wPe8uzpkdvCcGR4Tb/KoAPAKCAjs0sYjMMsRyIBGGY/Mos4pbN6a5gVyDDunB\neFPusRbhUsQE04vkUHS/q4JNQSdTBbn08ah1Br7B6wOL0RqwhctP/0H2EGPLNd8E\nelpf1CG5v648jfNYH8ctMFv0oL2Iv/CyJAqrZEUWPrTs8Vu5gyM3AJeUPXwNZfLk\nz0/idbv67eVn3Zl0/hGLbbSYfNQxzatE96xQl6CK0QKBgQDYu8m0XiPUwb3AA9FG\nZkOzo+wQgpgW2BufnwxVZmgIvswvQJ+WBYkUU4/uXxrNMBFYWGpFmmq3EQ3QgSHJ\nrGABmHDUj2dtcCk+01ZnuTOG+uaJ6w8HL+quLwrrY9862Zlxr6E5FHk9kEHumGAD\nPDKT67KZHjFoMKgmJIL8HfOa+QKBgQC+/2rtXj+YYPyWymqq6uoB8D7EDVvbE2kg\nrV5NzaaUXPXY2aEeIeyeUQhD6nQw2+srUWxVsUFFchjqhJfoOLyh+Js03fyHbwqT\naYI07hbzZeI5pkVeQBbERRDF0nuJBAeDRVZHkCY/g1pa60yoYyhiixFD3w2YWGOc\nCkw4TzdJkwKBgDlmesQ/ToQRj7ykBi/786BHIMU6oScjsyUyTWTsy07NoWw+VEW6\nT5THkM4T+Bgxy9Y3DGZEwFCdvqfjG1y7P24Mvo09MapFU1clR7QO07vDBX2veHpx\n0ViyctTmzX9blA0M88kXSAjrBNs5Feyla8vLV7C/01wBzvbTIrG9CQCZAoGAa6Q5\nV/OA9djbIgSMHy1rmpISXZ2Fwi7rVZ4/gqu/EOhfKcplMj0+RG84sEYHG64lmHE4\nFAdk2MWX4zu8/QRU0xfwKNhexNlA5ZlV54yzZJNr7r+VYqvN6OlfrY2VT7/0l/fQ\ny14jIDJgDtODjXbswLTNkym3WL+fy8ZF9Io4h38CgYBWPHU3g/gcYaZO8zznowx6\nwJAVX2NoNsoP+X2WhN1cP3ECFsqkyhsNnaiwzydjltNAavfj4C2PbzuV5ZkffAAM\nJq+UX/AUd8qIUciugIqcOatWcr9qc593YPBtfTd/pVKZUo/ip/gGAbAGE3n4eMF/\n/GnhDeV3ufX6p0ZpsIaD1A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "manychat-df-integration@manychat-324108.iam.gserviceaccount.com",
+  "client_id": "105241949139095555065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manychat-df-integration%40manychat-324108.iam.gserviceaccount.com"
+}
